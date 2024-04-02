@@ -1,18 +1,11 @@
-<<<<<<< HEAD
-=======
-import java.sql.SQLOutput;
 
->>>>>>> test
+import java.sql.SQLOutput;
 /**
  * @ClassName: Hello
  * @Package: PACKAGE_NAME
  * @Description:
  * @Author 菅圣楠
-<<<<<<< HEAD
  * @Create 2024-04-02 18:36 周二
-=======
- * @Create 2024-04-02 18:46 周二
->>>>>>> test
  * @Version 1.0
  * @ProjectName: IntelliJ IDEA
  */
